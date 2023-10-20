@@ -6,6 +6,10 @@
     background-position: center;
     display: inline-block;
 }
+.container__botao.container__rotulo>.cabeçalho__menu-hamburguer {
+    background-image: url(../img/Menu aberto.svg);
+    }
+
 
 .cabeçalho {
     background-color: var(--branco);
